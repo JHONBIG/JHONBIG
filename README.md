@@ -1,5 +1,4 @@
-
-**JHONBIG/JHONBIG** is a ✨ _special_ ✨ repository becaOlá, eu sou Jonathan Souza
+Olá, eu sou Jonathan Souza
 
 Sou Engenheiro DevOps e SRE, graduado em Cloud Computing, com experiência em infraestrutura em nuvem, automação e confiabilidade de sistemas.
 
