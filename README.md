@@ -29,5 +29,3 @@ Este perfil reúne projetos práticos voltados para infraestrutura como código,
 
 Contato  
 LinkedIn www.linkedin.com/in/jonathan-souza-dos-santos-261623243 
-
-GitHub https://github.com/JHONBIG
